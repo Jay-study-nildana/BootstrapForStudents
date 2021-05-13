@@ -2,6 +2,10 @@
 
 Deployment projects are available here.
 
+# Project Admin Dashboard
+
+You can see the app live at this [link](https://jayadmindashboardbootstrapdemo1.azurewebsites.net).
+
 # Project Photo X
 
 You can see the app live at this [link](https://jayphotoxbootstrapdemo1.azurewebsites.net).

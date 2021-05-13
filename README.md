@@ -12,6 +12,15 @@ Original source available here : https://github.com/PacktPublishing/Bootstrap-4-
 
 Live Sites [Available here](Deployments.md).
 
+# Modified Projects
+
+These are the projects that I have modified as part of my own practice, and have made available for my students.
+
+1. [PhotoX](PhotoX) - This was the very first project I remixed. So, this contains the maximum amount of detail in terms of comments and explanations. If you are learning CSS, start with this project. It has the maximum number of comments.
+1. [Admin Dashboard](AdminDashboard) - This was the second project I remixed. It contains less comments than PhotoX. Better to go through this after PhotoX.
+
+My belief is, if you can understand the code inside the project [PhotoX](PhotoX), interpret each line, and make meaningful remixes of the code and give it your own, customized look, you are good to go.
+
 # Note To Students
 
 1. Bootstrap is one of those things that is commonly used. That means, you will find a lot of ready to use code on the internet. You can also buy or download ready to use themes.
@@ -31,14 +40,6 @@ Currently, the code is built on top of Bootstrap 4.X.
 # Personal Note
 
 I have always had a huge problem with CSS and Bootstrap and Responsive Design all my life. I found, George Lomidze tutorials, which I watched via my learning.oreilly.com subscription, very useful. 
-
-# Modified Projects
-
-These are the projects that I have modified as part of my own practice, and have made available for my students.
-
-1. [PhotoX](PhotoX) - This was the very first project I remixed. So, this contains the maximum amount of detail in terms of comments and explanations. If you are learning CSS, start with this project. It has the maximum number of comments.
-
-My belief is, if you can understand the code inside the project [PhotoX](PhotoX), interpret each line, and make meaningful remixes of the code and give it your own, customized look, you are good to go.
 
 # Original Untouched Code
 
